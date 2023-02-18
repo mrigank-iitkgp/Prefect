@@ -1,3 +1,7 @@
+"""
+Flow : Flow is the basis of all prefect workflows. The flow is decorated using @flow decorator
+"""
+
 from prefect import flow
 
 @flow
